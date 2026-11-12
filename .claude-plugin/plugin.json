@@ -1,0 +1,8 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "Prompt Master and Grammar Master buttons: rewrite or proofread your draft prompt in one click",
+  "author": { "name": "noah-jjohnson" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

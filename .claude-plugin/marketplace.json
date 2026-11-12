@@ -1,0 +1,5 @@
+{
+  "name": "claude-prompt-tools",
+  "owner": { "name": "noah-jjohnson" },
+  "plugins": [{ "name": "prompt-master", "source": "./" }]
+}
